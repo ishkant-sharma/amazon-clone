@@ -29,6 +29,7 @@ Through this project, I aimed to:
 
 # How to See It
 	•	Option 1: Local Setup: Clone the Repository --> Navigate to the project directory--> Open the index.html file in a browser to view the website.
+ 	•	Option 2: Download the repository
  
 # Future Enhancements
 	•	Responsive Design: The layout dynamically adapts to various screen sizes, ensuring a smooth experience across mobile phones, tablets, and desktops.
